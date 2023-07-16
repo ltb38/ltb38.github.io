@@ -12,6 +12,7 @@ I am interested in nonlinear parabolic PDEs arising from material sciences and b
 
 - **Heterogeneous Diffusion Equation:** Random Walk, Mathematical Modeling, Diffusion in Metals, Singular Limits
 - **Reaction-Diffusion Equation**
+- **Stochastic Process and Parabolic PDEs**
 
 ## Education
 
