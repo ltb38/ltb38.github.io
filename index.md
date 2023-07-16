@@ -23,6 +23,6 @@ I am interested in nonlinear parabolic PDEs arising from material sciences and b
 
   B.S. in Mathematical Sciences(Intensive Major)
 
-{% include_relative _includes/publications.md %}
+#{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+#{% include_relative _includes/services.md %}
