@@ -23,6 +23,17 @@ I am interested in nonlinear parabolic PDEs arising from material sciences and b
 
   B.S. in Mathematical Sciences(Intensive Major)
 
-{% include_relative _includes/publications.md %};
+## Teaching Experience
 
-{% include_relative _includes/services.md %};
+- **Teaching Assistant**
+  - MAS102 Calculus II (23F, Vice-head TA)  
+  - MAS101 Calculus 1, MAS241 Analysis 1 (23S)
+  - MAS101 Calculus II (22F, best TA award)
+
+- **Tutoring**
+  - Calculus 1 (23S) 
+  - Calculus II (22F)
+
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
