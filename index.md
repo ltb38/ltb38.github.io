@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello! I am currently an Integrated MS/Ph.D student in the Department of Mathematical Sciences, KAIST. My advisor is professor Yongjung Kim. 
+
+I am interested in nonlinear parabolic PDEs arising from material sciences and biology. Especially, I am interested in heterogeneous diffusion equations and reaction-diffusion equations. I am recently studying heterogeneous random walk and mathematical modeling for diffusion in metals.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Heterogeneous Diffusion Equation:** Random Walk, Mathematical Modeling, Diffusion in Metals, Singular Limits
+- **Reaction-Diffusion Equation**
 
-## News
+## Education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **Korea Advanced Instituie of Science and Technology (KAIST)**            **Mar.2019 - Aug. 2022**
+B.S. in Mathematical Sciences(Intensive Major)
 
 {% include_relative _includes/publications.md %}
 
