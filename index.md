@@ -35,6 +35,8 @@ I am interested in nonlinear parabolic PDEs arising from material sciences and b
   - MAS101 Calculus 1 (23S) 
   - MAS102 Calculus II (22F)
 
+/* 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+*/
