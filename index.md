@@ -18,7 +18,8 @@ I am interested in nonlinear parabolic PDEs arising from material sciences, phys
 
 - **Korea Advanced Instituie of Science and Technology (KAIST):** **Aug. 2022 -**
 
-  Integrated MS/PhD in Mathematical Sciences \\
+  Integrated MS/PhD in Mathematical Sciences
+  
   Advisor: Yong-jung Kim
 
 - **Korea Advanced Instituie of Science and Technology (KAIST):** **Feb. 2019 - Aug. 2022**
