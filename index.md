@@ -6,7 +6,7 @@ layout: homepage
 
 Hello! I am currently an Integrated MS/PhD student in the Department of Mathematical Sciences, KAIST. My advisor is professor Yongjung Kim. 
 
-I am interested in nonlinear parabolic PDEs arising from material sciences, physics, and biology. Especially, I am interested in heterogeneous diffusion equations, reaction-diffusion equations, and solving PDEs using stochastic processes. I am recently studying heterogeneous random walk and mathematical modeling for diffusion related to permeability in biology.
+I am interested in nonlinear parabolic PDEs arising from material sciences, physics, and biology. Especially, I am interested in heterogeneous diffusion equations, reaction-diffusion equations, and solving PDEs using stochastic processes. I am recently studying heterogeneous random walk and mathematical modeling for components in biology, physics, and etc.
 
 ## Research Interests
 
@@ -31,7 +31,8 @@ I am interested in nonlinear parabolic PDEs arising from material sciences, phys
 ## Teaching Experience
 
 - **Teaching Assistant**
-  - MAS102 Calculus I (24S, Vice-head TA)
+  - MAS102 Calculus 2 (24F, Head TA)
+  - MAS101 Calculus I (24S, Vice-head TA, best TA award)
   - MAS102 Calculus 2 (23F, Vice-head TA, best TA award)  
   - MAS101 Calculus I, MAS241 Analysis 1 (23S, best TA award for MAS101)
   - MAS102 Calculus 2 (22F, best TA award)
